@@ -4,6 +4,9 @@ body {
   color: #ffffff;
   font-weight: 300; }
 
+.title-slogan {
+  font-size: 24px; }
+
 .text-muted {
   color: #bcbbbb;
   font-size: 25px; }
