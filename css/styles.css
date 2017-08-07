@@ -20,6 +20,17 @@ body {
   width: 120px;
   max-width: 100%; }
 
+.copyright {
+  color: #ffffff;
+  font-size: 14px; }
+
+.copyright a {
+  color: #ffffff;
+  text-decoration: none; }
+
+.copyright a:hover {
+  color: #eba015; }
+
 .modal {
   color: #747704; }
 
